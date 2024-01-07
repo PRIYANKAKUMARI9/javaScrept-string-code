@@ -1,0 +1,1 @@
+# javaScrept-string-code
